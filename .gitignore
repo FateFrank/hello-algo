@@ -20,3 +20,4 @@ test.sh
 overrides/partials/*
 !overrides/partials/content.html
 !overrides/partials/footer.html
+/hello-algo.iml
